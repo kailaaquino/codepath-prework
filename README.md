@@ -10,12 +10,11 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users are to see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
 ## Video Walkthrough
-[text](<../Screen Recording 2025-05-04 at 8.16.24 PM.mov>)
-
+https://github.com/user-attachments/assets/67db9d85-6092-4711-ac4d-c83ce0fd95d8
 
 ## App Brainstorming (Step 4)
 
@@ -37,7 +36,9 @@ The following **required** functionality is completed:
 ### App Idea: Social Planning Calendar
 
 The problem: Finding a time and plan is difficult within social groups due to conflicting schedules and indecision.
+
 Solution: This app will act as a centeralized place to view all members of the group's availability and suggested plans. The app will highlight a date and time where most members are availabile and a plan that is most suggested by the group.
+
 Features:
 A user can:
 
