@@ -4,7 +4,7 @@ Submitted by: **Kaila Aquino**
 
 **Click Counter** is an app that counts how many times the "Click me" button is clicked. Additionally, the user is able to change the color of the background and top text.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
