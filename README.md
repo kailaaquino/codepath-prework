@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ## Video Walkthrough
-https://github.com/user-attachments/assets/67db9d85-6092-4711-ac4d-c83ce0fd95d8
+[Walkthrough](https://imgur.com/a/0BTCtmh)
 
 ## App Brainstorming (Step 4)
 
