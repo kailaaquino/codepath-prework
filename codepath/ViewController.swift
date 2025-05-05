@@ -12,6 +12,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var schoolLabel: UILabel!
     @IBOutlet weak var aspirationLabel: UILabel!
+    
+    @IBOutlet weak var countLabel: UILabel!
+    var clickCount = 0
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -42,5 +45,9 @@ class ViewController: UIViewController {
         let whiteOrBlack = Bool.random()
         return whiteOrBlack ? .black : .white
         }
+    @IBAction func countClicks(_ sender: UIButton) {
+        clickCount += 1
+        countLabel.text = "Click Count: \(clickCount)"
+    }
 }
 
